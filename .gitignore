@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+.gradle/
+**/build/
+**/bin/
+**/out/
+**/local.properties
+*.iml
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Course demo tracks are not redistributed in the public repository.
+backend/src/main/resources/static/songs/*.mp3
+
